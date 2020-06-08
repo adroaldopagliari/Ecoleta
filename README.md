@@ -71,7 +71,7 @@ $ docker start imageName
 Now clone the repository and install the dependencies.
 ```bash
 # to clone the repository
-$ git clone https://github.com/StefanoSaffran/ecoleta.git
+$ git clone https://github.com/adroaldopagliari/ecoleta.git
 
 # go into the backend folder
 $ cd ecoleta/backend
@@ -127,15 +127,15 @@ yarn start
 ```
 Expo will open a page in your browser, scan the QRcode on the page and wait for the app to load.
 
-> The Application was developed and tested on Iphone 6s and Android Studio Emulator.
+> The Application was developed and tested on Xiaomi MI9T and Android Studio Emulator.
 
 ## :memo: License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/StefanoSaffran/ecoleta/blob/master/LICENSE) for more information
+This project is under the MIT license. See the [LICENSE](https://github.com/adroaldopagliari/ecoleta/blob/master/LICENSE) for more information
 
 ## :mailbox_with_mail: Get in touch!
 
-<a href="https://www.linkedin.com/in/adroaldopagliari/" target="_blank" >
+<a href="https://www.linkedin.com/in/adroaldo-pagliari-5856363b/" target="_blank" >
   <img alt="Linkedin - Adroaldo Pagliari" src="https://img.shields.io/badge/Linkedin--%23F8952D?style=social&logo=linkedin">
 </a>&nbsp;&nbsp;&nbsp;
 <a href="mailto:adroaldo@outlook.com" target="_blank" >
