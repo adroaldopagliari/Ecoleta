@@ -13,13 +13,16 @@
   "license": "ISC",
   "dependencies": {
     "@types/hapi__joi": "^17.1.4",
+    "acorn": "^7.3.1",
     "celebrate": "^12.1.1",
     "cors": "^2.8.5",
     "crypto": "^1.0.1",
     "express": "^4.17.1",
     "knex": "^0.21.1",
+    "logkitty": "^0.7.1",
     "multer": "^1.4.2",
-    "sqlite3": "^4.2.0"
+    "sqlite3": "^4.2.0",
+    "websocket-extensions": "^0.1.4"
   },
   "devDependencies": {
     "@types/cors": "^2.8.6",
